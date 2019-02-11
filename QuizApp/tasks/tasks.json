@@ -1,0 +1,77 @@
+{
+  "tasks": [
+    {
+      "question": "Choose flag of the Netherlands",
+      "answers": [
+        {"text": null, "image": "flag_niderlandov.jpg"},
+        {"text": null, "image": "italy.jpg"},
+        {"text": null, "image": "francja.jpg"}
+      ],
+      "correct": 1
+    },
+    {
+      "question": "How many bits make a byte?",
+      "answers": [
+        {"text": "16 bits", "image": null},
+        {"text": "8 bits", "image": null},
+        {"text": "24 bits", "image": null},
+        {"text": "12 bits", "image": null}
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Which of the items is an input device?",
+      "answers": [
+        {"text": "Keyboard", "image": "keyboard.jpg"},
+        {"text": "Overhead Projector", "image": "projector.png"},
+        {"text": "Computer Monitor", "image": "computer_monitor.jpg"}
+      ],
+      "correct": 1
+    },
+    {
+      "question": "The largest key on the Keyboard is the shift key?",
+      "answers": [
+        {"text": "True", "image": null},
+        {"text": "False", "image": null}
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Traditional Scottish dish eaten on Burns Night is:",
+      "answers": [
+        {"text": "daffodil", "image": null},
+        {"text": "haggis", "image": null},
+        {"text": "pudding", "image": null}
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Family celebration on 31 October is called:",
+      "answers": [
+        {"text": "trick or treat", "image": "trick_or_treat.jpg"},
+        {"text": "lanterns party", "image": "lanterns_party.jpg"},
+        {"text": "Halloween", "image": "halloween.jpg"}
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Which animal leaps out of the water to communicate with others of its kind?",
+      "answers": [
+        {"text": "flying fish", "image": "flying_fish.jpg"},
+        {"text": "whale", "image": "whale.jpg"},
+        {"text": "delphin", "image": "delphin.jpg"},
+        {"text": "penguin", "image": "pingwin.jpg"}
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Inertia is described by which of Newton's laws?",
+      "answers": [
+        {"text": "First", "image": null},
+        {"text": "Second", "image": null},
+        {"text": "Third", "image": null}
+      ],
+      "correct": 1
+    }
+  ]
+}
