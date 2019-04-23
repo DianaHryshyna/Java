@@ -1,6 +1,6 @@
 package AI;
 
-import TicTacToe.Board;
+import View.Board;
 
 
 public class Main {

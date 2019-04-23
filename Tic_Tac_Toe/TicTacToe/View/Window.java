@@ -1,4 +1,4 @@
-package TicTacToe;
+package View;
 
 import AI.Main;
 
